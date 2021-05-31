@@ -1,0 +1,22 @@
+{
+    "name": "liquid-white",
+    "publisher": "dxp611",
+    "displayName": "liquid-white",
+    "description": "Clean nature-inspired color theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Liquid White",
+                "uiTheme": "vs",
+                "path": "./themes/liquid-white.json"
+            }
+        ]
+    }
+}
