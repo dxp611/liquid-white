@@ -3,6 +3,7 @@
     "publisher": "dxp611",
     "displayName": "liquid-white",
     "description": "Clean nature-inspired color theme",
+    "repository": "https://github.com/dxp611/liquid-white",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
