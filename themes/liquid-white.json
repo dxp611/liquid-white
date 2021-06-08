@@ -1996,12 +1996,13 @@
         "terminal.ansiRed": "#cd3131",
         "terminal.ansiWhite": "#555555",
         "terminal.ansiYellow": "#949800",
-        "breadcrumb.background": "#ffffff",
-        "breadcrumb.foreground": "#212121",
-        "breadcrumb.focusForeground": "#8bc34a",
+        "breadcrumb.background": "#ffffff00",
+        "breadcrumb.foreground": "#9e9e9e",
+        "breadcrumb.focusForeground": "#212121",
         "editorGroupHeader.border": "#ffffff00",
         "editorGroupHeader.tabsBackground": "#ffffff",
         "editorGroupHeader.tabsBorder": "#ffffff00",
+        "editorGroup.dropBackground": "#9cc96654",
         "tab.activeForeground": "#212121",
         "tab.border": "#cccccc",
         "tab.activeBackground": "#ffffff",
@@ -2102,6 +2103,6 @@
         "debugExceptionWidget.background": "#eeeeee",
         "debugExceptionWidget.border": "#ffffff00",
         "textBlockQuote.background": "#EEEEEE",
-		"textBlockQuote.border": "#8BC34A"
+        "textBlockQuote.border": "#8BC34A"
     }
 }
