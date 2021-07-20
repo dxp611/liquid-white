@@ -1,8 +1,8 @@
 {
     "name": "liquid-white",
     "publisher": "dxp611",
-    "displayName": "Liquid White",
-    "description": "Clean nature-inspired color theme",
+    "displayName": "Liquid Designs",
+    "description": "Clean nature-inspired color themes",
     "repository": "https://github.com/dxp611/liquid-white",
     "version": "1.0.3",
     "engines": {
@@ -17,6 +17,11 @@
                 "label": "Liquid White",
                 "uiTheme": "vs",
                 "path": "./themes/liquid-white.json"
+            },
+            {
+                "label": "Liquid Ochre",
+                "uiTheme": "vs",
+                "path": "./themes/liquid-ochre.json"
             }
         ]
     }
