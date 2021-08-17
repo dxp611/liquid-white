@@ -20,7 +20,7 @@
             },
             {
                 "label": "Liquid Ochre",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/liquid-ochre.json"
             }
         ]
