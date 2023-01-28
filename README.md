@@ -7,10 +7,15 @@ Aimed at the daytime coder. A clean simple theme which only highlights what you 
 
 ![Liquid White Color theme](./img/liquid-white.png)
 
+
+## Liquid Dark
+
+Basic dark theme colors. Inspired by various dark themes applications across the web. Has improved visibility.
+
+![Liquid Dark Color theme](./img/liquid-dark.png)
+
 ## Liquid Ochre
 
 Aimed at the night coder. Carries the same simple design, while protecting your eyes for those late night coding sessions.
 
 ![Liquid Ochre Color theme](./img/liquid-ochre.png)
-
-
