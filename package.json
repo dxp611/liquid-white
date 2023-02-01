@@ -4,7 +4,7 @@
     "displayName": "Liquid Designs",
     "description": "Clean nature-inspired color themes",
     "repository": "https://github.com/dxp611/liquid-white",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "engines": {
         "vscode": "^1.44.0"
     },
