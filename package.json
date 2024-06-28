@@ -14,6 +14,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Liquid Windows GPT",
+                "uiTheme": "vs-dark",
+                "path": "./themes/liquid-windows-gpt.json"
+            },
+            {
                 "label": "Liquid Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/liquid-dark.json"
