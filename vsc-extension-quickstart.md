@@ -1,5 +1,7 @@
 # Welcome to your VS Code Extension
 
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
@@ -23,6 +25,7 @@
 To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
 
 ## Install your extension
+
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
